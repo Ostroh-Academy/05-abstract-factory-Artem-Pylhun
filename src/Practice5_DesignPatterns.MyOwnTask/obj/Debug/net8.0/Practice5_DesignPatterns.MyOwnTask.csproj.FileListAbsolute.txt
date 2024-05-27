@@ -1,0 +1,14 @@
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\bin\Debug\net8.0\Practice5_DesignPatterns.MyOwnTask.exe
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\bin\Debug\net8.0\Practice5_DesignPatterns.MyOwnTask.deps.json
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\bin\Debug\net8.0\Practice5_DesignPatterns.MyOwnTask.runtimeconfig.json
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\bin\Debug\net8.0\Practice5_DesignPatterns.MyOwnTask.dll
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\bin\Debug\net8.0\Practice5_DesignPatterns.MyOwnTask.pdb
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\obj\Debug\net8.0\Practice5_DesignPatterns.MyOwnTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\obj\Debug\net8.0\Practice5_DesignPatterns.MyOwnTask.AssemblyInfoInputs.cache
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\obj\Debug\net8.0\Practice5_DesignPatterns.MyOwnTask.AssemblyInfo.cs
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\obj\Debug\net8.0\Practice5_DesignPatterns.MyOwnTask.csproj.CoreCompileInputs.cache
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\obj\Debug\net8.0\Practice5_DesignPatterns.MyOwnTask.dll
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\obj\Debug\net8.0\refint\Practice5_DesignPatterns.MyOwnTask.dll
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\obj\Debug\net8.0\Practice5_DesignPatterns.MyOwnTask.pdb
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\obj\Debug\net8.0\Practice5_DesignPatterns.MyOwnTask.genruntimeconfig.cache
+C:\Users\pilgu\source\repos\Practice5_DesignPatterns\Practice5_DesignPatterns.MyOwnTask\obj\Debug\net8.0\ref\Practice5_DesignPatterns.MyOwnTask.dll
